@@ -38,7 +38,7 @@ def calculate_metrics(model_pred_df, genre_list, genre_true_counts, genre_tp_cou
 
     '''
 
-    # Your code here
+    
 
     
 def calculate_sklearn_metrics(model_pred_df, genre_list):
@@ -61,4 +61,4 @@ def calculate_sklearn_metrics(model_pred_df, genre_list):
     true_matrix = pd.DataFrame(true_rows)
     '''
 
-    # Your code here
+    
